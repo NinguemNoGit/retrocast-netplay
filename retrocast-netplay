@@ -1,0 +1,13 @@
+{
+  "name": "retrocast-netplay",
+  "version": "1.0.0",
+  "description": "Servidor NetPlay com lobby via WebSocket para Retrocast",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

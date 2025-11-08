@@ -1,0 +1,9 @@
+# 🎮 Retrocast NetPlay Server
+
+Servidor de **NetPlay com Lobby via WebSocket**, feito para o sistema Retrocast (baseado em EmulatorJS).
+
+## 🚀 Como usar localmente
+
+```bash
+npm install
+npm start
